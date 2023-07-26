@@ -12,13 +12,9 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xie-Muxi&layout=donut&hide_progress=false&theme=transparent)
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xie-Muxi&layout=donut&hide_progress=false)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xie-Muxi&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xie-Muxi&rank_icon=github&theme=transparent)
 
 <!--
 **Xie-Muxi/Xie-Muxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
